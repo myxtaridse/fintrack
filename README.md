@@ -12,7 +12,7 @@
 
 ## Технический стек
 - HTML
-- Tailwind
+- Tailwind CSS
 - JavaScript
 - LocalStorage
 - Chart.js
